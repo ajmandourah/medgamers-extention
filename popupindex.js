@@ -1,6 +1,6 @@
 $(document).ready(function () {
     var mr = new mumbleReader(
-  'http://medgamers.duckdns.org:21803/1',
+  'YOUR_OWN JSON_URL',
   'mum0'
 ) //init the object
 mr.settooltip(false) //to disable the tooltip change true to false
